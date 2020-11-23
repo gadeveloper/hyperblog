@@ -8,3 +8,5 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Creado por el platzi team
+* incluye ejemolo en windows, linux y mac
+* diverso y atractico para todos
